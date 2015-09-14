@@ -55,11 +55,11 @@ done
 <pre>
 libopencv_calib3d.2.4.dylib:
 	lib/libopencv_calib3d.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
-	/Applications/iTestin.app/Contents/Jar/tools/OpenCV/mac/dylib/libopencv_features2d.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
-	/Applications/iTestin.app/Contents/Jar/tools/OpenCV/mac/dylib/libopencv_flann.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
-	/Applications/iTestin.app/Contents/Jar/tools/OpenCV/mac/dylib/libopencv_highgui.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
-	/Applications/iTestin.app/Contents/Jar/tools/OpenCV/mac/dylib/libopencv_imgproc.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
-	/Applications/iTestin.app/Contents/Jar/tools/OpenCV/mac/dylib/libopencv_core.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
+	@loader_path/libopencv_features2d.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
+	@loader_path/libopencv_flann.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
+	@loader_path/libopencv_highgui.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
+	@loader_path/libopencv_imgproc.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
+	@loader_path/libopencv_core.2.4.dylib (compatibility version 2.4.0, current version 2.4.10)
 	/usr/lib/libc++.1.dylib (compatibility version 1.0.0, current version 120.0.0)
 	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1213.0.0)
 </pre>
